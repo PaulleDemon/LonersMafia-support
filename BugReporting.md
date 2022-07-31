@@ -26,6 +26,8 @@ We categorize bugs into 3 categories depending on the severity;
 
 To report a bug on Github you may need to signup:
 
+**Process**
+
 1. Head over to the [Frontend issues tab](https://github.com/PaulleDemon/LonersMafia-Frontend/issues), for frontend related issues. 
 [Backend issues tab](https://github.com/PaulleDemon/LonersMafia-Backend/issues) for backend related issues.
 
@@ -36,3 +38,12 @@ If not proceed with the below.
 Eg: Not enough contrast between text and background in chat page [LOW]
 
 4. In the description, please describe the issue in detail, such as the steps to reproduce, screenshots (if necessary), error codes etc.
+
+----
+
+1. [Frontend bug](https://github.com/PaulleDemon/LonersMafia-Frontend)
+2. [Backend bug, (eg: 500 status errors)](https://github.com/PaulleDemon/LonersMafia-Backend)
+
+* If you think the bug is related to frontend please raise issue in the first option. Frontend bugs includes forms that cannot be submitted, the webpage broken visually, broken links, typos etc falls under this category.
+
+* If you encounter 500 errors, or found security vulnerability, Please report it in the second option.
