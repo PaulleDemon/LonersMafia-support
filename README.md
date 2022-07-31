@@ -3,7 +3,7 @@ support for loners-mafia, give feedback, feature request here
 
 ## Reporting Bugs
 
-If you found a Bug Please report the bug according to. (Please read through [Bug reporting Guidlines]())
+If you found a Bug Please report the bug according to. (Please read through [Bug reporting Guidlines](https://github.com/PaulleDemon/LonersMafia-support/blob/main/BugReporting.md))
 
 1. [Frontend bug](https://github.com/PaulleDemon/LonersMafia-Frontend)
 2. [Backend bug, (eg: 500 status errors)](https://github.com/PaulleDemon/LonersMafia-Backend)
