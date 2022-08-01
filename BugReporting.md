@@ -28,8 +28,8 @@ To report a bug on Github you may need to signup:
 
 **Process**
 
-1. Head over to the [Frontend issues tab](https://github.com/PaulleDemon/LonersMafia-Frontend/issues), for frontend related issues. 
-[Backend issues tab](https://github.com/PaulleDemon/LonersMafia-Backend/issues) for backend related issues.
+1. Head over to the [Frontend issues tab](https://github.com/PaulleDemon/LonersMafia-Frontend-Public/issues), for frontend related issues. 
+[Backend issues tab](https://github.com/PaulleDemon/LonersMafia-Backend-Public/issues) for backend related issues.
 
 2. Use the search functionality in the issues tab to search if the issue has already been reported. If yes, just give a thumbs up to that issue, 
 If not proceed with the below.
