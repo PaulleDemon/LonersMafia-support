@@ -5,8 +5,8 @@ support for loners-mafia, give feedback, feature request here
 
 If you found a Bug Please report the bug according to. (Please read through [Bug reporting Guidlines](https://github.com/PaulleDemon/LonersMafia-support/blob/main/BugReporting.md))
 
-1. [Frontend bug](https://github.com/PaulleDemon/LonersMafia-Frontend)
-2. [Backend bug, (eg: 500 status errors)](https://github.com/PaulleDemon/LonersMafia-Backend)
+1. [Frontend bug](https://github.com/PaulleDemon/LonersMafia-Frontend-Public/issues)
+2. [Backend bug, (eg: 500 status errors)](https://github.com/PaulleDemon/LonersMafia-Backend-Public/issues)
 
 * If you think the bug is related to frontend please raise issue in the first option. Frontend bugs includes forms that cannot be submitted, the webpage broken visually, broken links, typos etc falls under this category.
 
@@ -18,8 +18,8 @@ If you found a Bug Please report the bug according to. (Please read through [Bug
 ## Source code:
 If you are a developer or just curious and want to look into the source code you can do so from the below links
 
-1. [Source for front end](https://github.com/PaulleDemon/LonersMafia-Frontend)
-2. [source for back end](https://github.com/PaulleDemon/LonersMafia-Backend)
+1. [Source for front end](https://github.com/PaulleDemon/LonersMafia-Frontend-Public)
+2. [source for back end](https://github.com/PaulleDemon/LonersMafia-Backend-Public)
 
 ------
 Like every other project I took up in the past LonersMafia too has a story, you may read the story behind the Mafia creation: [story behind LonersMafia](https://github.com/PaulleDemon/PaulleDemon/blob/main/stories.md#lonersmafia---lonersmafiacom)
