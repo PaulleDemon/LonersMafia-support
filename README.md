@@ -1,4 +1,9 @@
 # LonersMafia-support
+
+<p align="center">
+  <img src="https://github.com/PaulleDemon/LonersMafia-support/blob/main/brand-icons/svg/loner-bunny.svg" alt="Loners bunny" width=350px" height="350px"/>
+</p>
+
 support for loners-mafia, give feedback, feature request here
 
 ## Reporting Bugs
