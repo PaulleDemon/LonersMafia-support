@@ -6,7 +6,7 @@
 
 support for loners-mafia, give feedback, feature request here
 
-LonersMafia is currently down because AWS free trial ended, if you want to see it up please [buy me a coffee](https://www.buymeacoffee.com/ArtPaul), So I can afford to pay for servers
+**LonersMafia is currently down because AWS free trial ended, if you want to see it up please [buy me a coffee](https://www.buymeacoffee.com/ArtPaul), So I can afford to pay for servers**
 
 ## Reporting Bugs
 
